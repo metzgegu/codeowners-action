@@ -1,6 +1,6 @@
 name: 'CODEOWNERS action'
 description: 'Extracts CODEOWNERS information'
-author: 'Sebass van Boxel'
+author: 'metzgegu'
 inputs:
   path:
     required: false
