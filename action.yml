@@ -1,5 +1,5 @@
-name: 'CODEOWNERS action'
-description: 'Extracts CODEOWNERS information'
+name: 'CODEOWNERS action forked'
+description: 'Extracts CODEOWNERS information, it is a fork from SvanBoxel/codeowners-action'
 author: 'metzgegu'
 inputs:
   path:
